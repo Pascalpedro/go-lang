@@ -1,3 +1,5 @@
+// To declare a variable without an initial value, its value will be set to the default value of its type...
+
 package main
 import ("fmt")
 
