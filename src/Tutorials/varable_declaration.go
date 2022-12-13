@@ -1,3 +1,5 @@
+// To declare a variable with known value...
+
 package main
 import ("fmt")
 
